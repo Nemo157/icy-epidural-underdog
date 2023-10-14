@@ -2,6 +2,9 @@
 name = "icy-epidural-underdog"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/Nemo157/icy-epidural-underdog"
+license = "MIT OR Apache-2.0"
+description = "A test of having a dynamic rustdoc logo"
 
 [dependencies]
 axum = "0.6.20"
